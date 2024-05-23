@@ -1,0 +1,15 @@
+source,target,edge_type,interaction_type
+Carlos,Emily,knowledge,gives knowledge
+Emily,Carlos,knowledge,receives knowledge
+Carlos,Josh,knowledge,gives knowledge
+Josh,Carlos,knowledge,receives knowledge
+Carlos,Leah,knowledge,gives knowledge
+Leah,Carlos,knowledge,receives knowledge
+Emily,Leah,personal,negative interaction
+Leah,Emily,personal,negative interaction
+Carlos,Emily,personal,positive interaction
+Emily,Carlos,personal,positive interaction
+Carlos,Leah,personal,negative interaction
+Leah,Carlos,personal,negative interaction
+Carlos,Josh,personal,positive interaction
+Josh,Carlos,personal,positive interaction
