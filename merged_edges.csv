@@ -15,7 +15,6 @@ Emily,Fiona,knowledge,gives knowledge
 Emily,Leah,knowledge,gives knowledge
 Emily,Josh,knowledge,gives knowledge
 Carlos,Leah,knowledge,gives knowledge
-source,target,edge_type,interaction_type
 Emily,Fiona,knowledge,gives knowledge
 Josh,Fiona,knowledge,gives knowledge
 Leah,Fiona,knowledge,gives knowledge
@@ -32,7 +31,6 @@ Josh,Carlos,personal,positive interaction
 Josh,Fiona,knowledge,gives knowledge
 Emily,Josh,knowledge,gives knowledge
 Emily,Josh,personal,negative interaction
-source,target,edge_type,interaction_type
 Emily,Leah,knowledge,gives knowledge
 Josh,Leah,knowledge,gives knowledge
 Leah,Fiona,knowledge,gives knowledge
