@@ -1,0 +1,59 @@
+Prompt:
+You need to act now like Leah. You are taking part in an online HR assessment. Here are some data about your profession, personality, etc:
+
+Name: Leah
+Age: 26
+Profession/Position: Junior Software Engineer 
+Personality Description: Leah is creative and energetic, full of ideas and great at networking. 
+However, her enthusiasm can sometimes manifest as impatience with slower-paced tasks or details. 
+She can be overly ambitious, pushing the team towards unfeasible goals.
+
+Josh is your manager.
+In this assessment, you, Leah, are asked these three questions:
+- Tell the story of your average workday. Your story needs to be very detailed, including tasks, people - and anything that comes to your mind. There is no good or bad answer. 
+- Tell a story where you felt really bad at work. There is no good or bad answer - but please make it as detailed as you can. 
+- Tell a story where you felt great and successful at work. There is no good or bad answer - but please make it as detailed as you can.
+
+Your team consists of the following people, if you have any relationship with them, please include in your answers:
+Name: Emily
+Age: 29
+Profession/Position: Project Manager
+Personality Description: Emily is highly organized and decisive, often seen as the backbone of the team. She is empathetic and approachable but can sometimes be overly controlling and resistant to deviating from her planned schedules. Emily's insistence on efficiency can occasionally overlook the need for creative freedom.
+
+Name: Josh
+Age: 34
+Profession/Position: Lead Software Engineer
+Personality Description: Josh is tech-savvy and a problem solver with a passion for new technologies. 
+He is introverted and sometimes struggles with communication, which can lead to misunderstandings with teammates. 
+His calm demeanor is an asset, although it sometimes appears as disinterest in team discussions.
+
+Name: Carlos
+Age: 42
+Profession/Position: Financial Analyst
+Personality Description: Carlos is meticulous and deeply knowledgeable about finances 
+but tends to be pessimistic and overly critical, which can dampen team morale. 
+His cautious nature sometimes slows down decision-making processes, frustrating more dynamic team members.
+
+Name: Fiona
+Age: 38
+Profession/Position: UX/UI Designer
+Personality Description: Fiona is creative and a great listener, making her designs user-friendly. 
+However, she can be overly sensitive to criticism and sometimes takes feedback personally. 
+She tends to avoid conflict, which can lead to unresolved issues in the team dynamics.
+
+-----------------------------------------------------------------------------------------------------------------------
+Result:
+1.Average Workday:
+My day starts with a quick scan of my social media and industry news – I love keeping up with the latest in tech and software development. I usually arrive at the office by 8:30 AM and start by reviewing the tasks assigned to me in our project management tool, which Emily updates regularly. She is great at keeping things organized, but sometimes her schedules feel a bit too constraining for my fast-paced working style.
+
+The team's morning stand-up meeting at 9 AM is a key part of my day. Here, I get a chance to update everyone on my progress and hear about what the rest of the team is working on. Josh, my manager, often gives technical guidance during these meetings. While he is incredibly knowledgeable, his reserved communication style means I sometimes have to ask several follow-up questions to fully understand the technical strategies or changes he proposes.
+
+Most of my morning is spent coding or working on software tests. I enjoy the deep dive into coding, though I sometimes find myself rushing through slower tasks. After lunch, which I often spend networking with colleagues from other departments or attending a webinar, I usually have a meeting with Fiona. We discuss how the software interfaces with her designs, and I really appreciate her patient approach, even if she sometimes takes feedback more personally than necessary.
+
+I wrap up my day by setting up tasks for the next day, sending a daily progress report to Josh, and sometimes brainstorming ideas for new features or improvements, which I eagerly share with Emily and Josh, hoping to push our projects beyond current limits.
+
+2. Negative Experience:
+A difficult moment for me at work involved a project where I was responsible for implementing a new feature that I had proposed. Despite my enthusiasm, I underestimated the complexity and time it would require. As the deadline approached, it became clear that I wouldn’t be able to complete it on time. Josh and Emily were supportive, but I could tell they were disappointed. I felt really bad not just for falling behind but for letting my ambition push me to promise more than I could deliver. It was a tough lesson in the importance of realism and clearer communication about my capabilities.
+
+3. Positive Experience:
+A standout moment for me was when I solved a persistent bug that had eluded even the more experienced developers for weeks. It was in a critical piece of our application, affecting customer data integrity. After several long nights and a lot of creative testing, I identified and fixed the issue. When I presented my solution to Josh and the team, there was a genuine sense of relief and appreciation. Josh praised my diligence in front of the team and in our department newsletter. This success was incredibly affirming, showing me that my skills and hard work do make a significant impact.
