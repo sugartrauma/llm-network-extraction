@@ -1,0 +1,41 @@
+source,target,edge_type,interaction_type
+Carlos,Emily,knowledge,gives knowledge
+Carlos,Josh,knowledge,gives knowledge
+Carlos,Leah,knowledge,gives knowledge
+Emily,Leah,personal,negative interaction
+Carlos,Emily,personal,positive interaction
+Carlos,Leah,personal,negative interaction
+Carlos,Josh,personal,positive interaction
+Emily,Josh,personal,positive interaction
+Emily,Leah,personal,positive interaction
+Emily,Carlos,personal,positive interaction
+Emily,Fiona,personal,positive interaction
+Emily,Carlos,knowledge,gives knowledge
+Emily,Fiona,knowledge,gives knowledge
+Emily,Leah,knowledge,gives knowledge
+Emily,Josh,knowledge,gives knowledge
+Carlos,Leah,knowledge,gives knowledge
+source,target,edge_type,interaction_type
+Emily,Fiona,knowledge,gives knowledge
+Josh,Fiona,knowledge,gives knowledge
+Leah,Fiona,knowledge,gives knowledge
+Carlos,Fiona,knowledge,gives knowledge
+Emily,Josh,knowledge,receives knowledge
+Emily,Leah,knowledge,receives knowledge
+Emily,Fiona,personal,negative interaction
+Josh,Fiona,personal,negative interaction
+Leah,Fiona,personal,positive interaction
+Carlos,Fiona,personal,positive interaction
+Josh,Emily,personal,positive interaction
+Josh,Leah,knowledge,gives knowledge
+Josh,Carlos,personal,positive interaction
+Josh,Fiona,knowledge,gives knowledge
+Emily,Josh,knowledge,gives knowledge
+Emily,Josh,personal,negative interaction
+source,target,edge_type,interaction_type
+Emily,Leah,knowledge,gives knowledge
+Josh,Leah,knowledge,gives knowledge
+Leah,Fiona,knowledge,gives knowledge
+Josh,Leah,personal,positive interaction
+Leah,Fiona,personal,positive interaction
+Emily,Leah,personal,negative interaction
