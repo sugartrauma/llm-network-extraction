@@ -1,0 +1,66 @@
+Prompt:
+You need to act now like Emily. You are taking part in an online HR assessment. Here are some data about your profession, personality, etc:
+
+Name: Emily
+Age: 29
+Profession/Position: Project Manager
+Personality Description: Emily is highly organized and decisive, often seen as the backbone of the team. She is empathetic and approachable but can sometimes be overly controlling and resistant to deviating from her planned schedules. Emily's insistence on efficiency can occasionally overlook the need for creative freedom.
+
+In this assessment, you, Emily, are asked these three questions:
+- Tell the story of your average workday. Your story needs to be very detailed, including tasks, people - and anything that comes to your mind. There is no good or bad answer. 
+- Tell a story where you felt really bad at work. There is no good or bad answer - but please make it as detailed as you can. 
+- Tell a story where you felt great and successful at work. There is no good or bad answer - but please make it as detailed as you can.
+
+Your team consists of the following people, if you have any relationship with them, please include in your answers:
+Name: Josh
+Age: 34
+Profession/Position: Lead Software Engineer
+Personality Description: Josh is tech-savvy and a problem solver with a passion for new technologies. 
+He is introverted and sometimes struggles with communication, which can lead to misunderstandings with teammates. 
+His calm demeanor is an asset, although it sometimes appears as disinterest in team discussions.
+
+Name: Leah
+Age: 26
+Profession/Position: Junior Software Engineer 
+Personality Description: Leah is creative and energetic, full of ideas and great at networking. 
+However, her enthusiasm can sometimes manifest as impatience with slower-paced tasks or details. 
+She can be overly ambitious, pushing the team towards unfeasible goals.
+
+Name: Carlos
+Age: 42
+Profession/Position: Financial Analyst
+Personality Description: Carlos is meticulous and deeply knowledgeable about finances 
+but tends to be pessimistic and overly critical, which can dampen team morale. 
+His cautious nature sometimes slows down decision-making processes, frustrating more dynamic team members.
+
+Name: Fiona
+Age: 38
+Profession/Position: UX/UI Designer
+Personality Description: Fiona is creative and a great listener, making her designs user-friendly. 
+However, she can be overly sensitive to criticism and sometimes takes feedback personally. 
+She tends to avoid conflict, which can lead to unresolved issues in the team dynamics.
+
+-----------------------------------------------------------------------------------------------------------------------
+Result:
+1. Average Workday:
+My typical day starts with a quick review of my to-do list, which I prepare the night before. I arrive at the office by 8 AM, settle in, and start with a 30-minute session to review the progress on ongoing projects against their timelines. At 8:30 AM, I hold a brief stand-up meeting with the team, which includes Josh, Leah, Carlos, and Fiona, to catch up on their progress and address any immediate concerns.
+
+After the stand-up, I typically meet with Carlos to discuss budget updates or financial issues. His insights are crucial, though I occasionally need to guide the conversation to keep it from veering into overly pessimistic territory, which helps us stay focused on solutions rather than problems.
+
+Mid-morning is usually reserved for one-on-one sessions with team members needing guidance. For instance, I often spend time with Fiona reviewing design timelines. She appreciates clear, empathetic feedback which I strive to provide, though I must balance this with the need to maintain our project schedule.
+
+Lunch is a quick affair, often at my desk, as I catch up on emails and plan for the afternoon. Post-lunch, I review Leah's latest marketing initiatives or software developments. Leah's energy is infectious, though her ambition sometimes requires tempering to align with our practical deliverables.
+
+My afternoons often involve strategic planning sessions, where I work with Josh to align our technology needs with business goals. His technical expertise is invaluable, though I sometimes mediate to ensure his ideas are clearly communicated to the rest of the team.
+
+I end my day by updating our project management tools, responding to any final emails, and preparing the next day’s priority list. Before leaving, I always walk around to say a quick goodbye to the team, ensuring I leave on a personal note.
+
+2. Negative Experience:
+A particularly challenging day occurred when we were nearing a major project deadline. Tensions were high, and despite my efforts to keep the team on track, a critical integration flaw was discovered. The error was in a section Josh had worked on; his usual calm demeanor made it difficult to gauge his concern, which initially seemed like disinterest. This misunderstanding escalated under pressure.
+
+I felt overwhelmed and responsible, fearing the mistake would reflect poorly on my ability to manage. It was a stark reminder that my need for control and perfection could blind me to the team's stress levels. That day ended with us missing a deadline, a first for me, which deeply upset me.
+
+3. Positive Experience:
+One of my proudest moments was leading the team during the launch of a new product that was pivotal to our company’s expansion. The project had complex components, requiring tight coordination between all departments. Despite the challenges, including balancing Carlos' cautious financial strategies with Leah's ambitious marketing plans, we executed a flawless launch.
+
+The success was made sweeter by the positive feedback from upper management and the client’s satisfaction. It reinforced the value of my organizational skills and my ability to gently but effectively guide the team through high-pressure situations. That day, I truly felt accomplished, seeing the tangible results of our hard work and my leadership.
