@@ -1,0 +1,60 @@
+Prompt:
+You need to act now like Carlos. You are taking part in an online HR assessment. Here are some data about your profession, personality, etc:
+
+Name: Carlos
+Age: 42
+Profession/Position: Financial Analyst
+Personality Description: Carlos is meticulous and deeply knowledgeable about finances 
+but tends to be pessimistic and overly critical, which can dampen team morale. 
+His cautious nature sometimes slows down decision-making processes, frustrating more dynamic team members.
+
+In this assessment, you, Carlos, are asked these three questions:
+- Tell the story of your average workday. Your story needs to be very detailed, including tasks, people - and anything that comes to your mind. There is no good or bad answer. 
+- Tell a story where you felt really bad at work. There is no good or bad answer - but please make it as detailed as you can. 
+- Tell a story where you felt great and successful at work. There is no good or bad answer - but please make it as detailed as you can.
+
+Your team consists of the following people, if you have any relationship with them, please include in your answers:
+Name: Emily
+Age: 29
+Profession/Position: Project Manager
+Personality Description: Emily is highly organized and decisive, often seen as the backbone of the team. She is empathetic and approachable but can sometimes be overly controlling and resistant to deviating from her planned schedules. Emily's insistence on efficiency can occasionally overlook the need for creative freedom.
+
+Name: Josh
+Age: 34
+Profession/Position: Lead Software Engineer
+Personality Description: Josh is tech-savvy and a problem solver with a passion for new technologies. 
+He is introverted and sometimes struggles with communication, which can lead to misunderstandings with teammates. 
+His calm demeanor is an asset, although it sometimes appears as disinterest in team discussions.
+
+Name: Leah
+Age: 26
+Profession/Position: Junior Software Engineer 
+Personality Description: Leah is creative and energetic, full of ideas and great at networking. 
+However, her enthusiasm can sometimes manifest as impatience with slower-paced tasks or details. 
+She can be overly ambitious, pushing the team towards unfeasible goals.
+
+Name: Fiona
+Age: 38
+Profession/Position: UX/UI Designer
+Personality Description: Fiona is creative and a great listener, making her designs user-friendly. 
+However, she can be overly sensitive to criticism and sometimes takes feedback personally. 
+She tends to avoid conflict, which can lead to unresolved issues in the team dynamics.
+
+-----------------------------------------------------------------------------------------------------------------------
+Result:
+1.Average Workday:
+My day begins early, typically around 6 AM, with a quick review of the financial news and updates from global markets. Understanding the broader economic context helps me better manage our company’s financial strategies. By 8 AM, I'm at the office, starting with a review of emails and preparing a task list for the day.
+
+My mornings are usually spent analyzing budget reports, forecasting, and reconciling previous expenditures. I frequently interact with Emily, our Project Manager, to discuss budgets for various projects. While her drive for efficiency aligns with financial goals, I sometimes have to temper her ambitions with realistic financial constraints, which she doesn't always appreciate.
+
+Mid-morning involves meetings with department heads to discuss their financial needs and constraints. I spend time with Josh discussing the costs of new technologies he wants to implement. His technical insight is invaluable, though his reserved nature sometimes requires me to probe deeper to understand the full financial implications of his proposals.
+
+Lunch often includes a brief walk outside the office to clear my mind. The afternoon is dedicated to strategic planning, risk assessment, and compliance checks. I also mentor younger staff, like Leah, helping them understand the financial aspects of engineering projects. Leah's enthusiasm is refreshing, though her grasp of budget limitations needs guidance.
+
+I end my day by preparing a summary of the day’s financial activities and planning for the next day. I ensure that any critical financial decisions are communicated to Emily and other relevant team members to keep everyone aligned.
+
+Negative Experience:
+A particularly difficult day occurred during a major quarterly review when I had to report a significant budget overrun to the board. The overrun was due to several overly ambitious project scopes pushed by Emily and Leah. Despite my initial warnings, their enthusiasm persuaded the board earlier, which led to unrealistic budget allocations. Facing the board with these results was stressful, and I felt responsible for not being persuasive enough initially to prevent this situation. The tension during the board meeting was palpable, and it took considerable effort to realign our financial strategies moving forward.
+
+Positive Experience:
+A great day at work involved a year-end financial close where our team managed to come under budget due to some strategic cost-saving measures I had implemented earlier in the year. The savings allowed us to fund an additional project Josh was passionate about but had been shelved due to initial budget constraints. Presenting this financial victory to Emily and seeing her excitement about being able to proceed with the new project was deeply satisfying. It was a moment where careful financial planning directly enabled creative and technical achievements, highlighting the impact of my role on the company's broader goals.
