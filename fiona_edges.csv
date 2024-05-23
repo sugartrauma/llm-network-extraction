@@ -1,0 +1,11 @@
+source,target,edge_type,interaction_type
+Emily,Fiona,knowledge,gives knowledge
+Josh,Fiona,knowledge,gives knowledge
+Leah,Fiona,knowledge,gives knowledge
+Carlos,Fiona,knowledge,gives knowledge
+Emily,Josh,knowledge,receives knowledge
+Emily,Leah,knowledge,receives knowledge
+Emily,Fiona,personal,negative interaction
+Josh,Fiona,personal,negative interaction
+Leah,Fiona,personal,positive interaction
+Carlos,Fiona,personal,positive interaction
